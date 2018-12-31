@@ -1,3 +1,7 @@
+# Deprecated
+
+This repository is deprecated and will be removed. Please prefer the orginal [twgit](https://github.com/Twenga/twgit) repository.
+
 [![TwGit logo](https://github.com/Twenga/twgit/raw/stable/doc/logo-med.png)](http://twgit.twenga.com/) TwGit
 ==========
 
